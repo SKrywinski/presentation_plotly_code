@@ -46,7 +46,10 @@ node_text = []
 for node in G.nodes():
     node_text.append('{}'.format(node))
 
-####
+
+# end parts of networkx
+#########
+# continue with plotly
 
 
 edge_trace = go.Scatter(
