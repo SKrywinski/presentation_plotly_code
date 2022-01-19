@@ -130,7 +130,7 @@ fig.show()
 import networkx as nx
 import matplotlib.pyplot as plt
 
-edgelist = "data/ger000088-lessing-emilia-galotti.csv"
+edgelist = "ger000088-lessing-emilia-galotti.csv"
 
 df = pd.read_csv(edgelist)
 
